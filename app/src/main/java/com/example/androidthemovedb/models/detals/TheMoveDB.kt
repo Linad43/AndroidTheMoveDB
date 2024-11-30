@@ -1,4 +1,4 @@
-package com.example.androidthemovedb.models
+package com.example.androidthemovedb.models.detals
 
 data class TheMoveDB(
     val adult: Boolean,

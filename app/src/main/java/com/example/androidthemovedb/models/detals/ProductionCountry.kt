@@ -1,4 +1,4 @@
-package com.example.androidthemovedb.models
+package com.example.androidthemovedb.models.detals
 
 data class ProductionCountry(
     val iso_3166_1: String,

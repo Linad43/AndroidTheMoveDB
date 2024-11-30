@@ -1,4 +1,4 @@
-package com.example.androidthemovedb.models
+package com.example.androidthemovedb.models.detals
 
 data class SpokenLanguage(
     val english_name: String,
